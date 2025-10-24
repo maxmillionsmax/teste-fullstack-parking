@@ -364,7 +364,7 @@ Maria,11888888888,Rua C,sim,250.00,ABC1234,Civic,2020   # Aviso: placa duplicada
 
 ## 📝 Licença
 
-Este projeto está sob a licença MIT.
+Este projeto está sob a licença Maximiliano.
 
 ---
 
