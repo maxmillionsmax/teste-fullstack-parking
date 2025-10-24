@@ -1,6 +1,6 @@
 # 🚗 Sistema de Gestão de Estacionamento
 
-Sistema completo de gestão de estacionamento com controle de clientes, veículos e faturamento proporcional de mensalidades.
+Sistema basico de gestão de estacionamento com controle de clientes, veículos e faturamento proporcional de mensalidades.
 
 ## 📋 Índice
 
